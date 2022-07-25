@@ -5,7 +5,7 @@
 
 * [Görsel blockchain anlatımı:](https://andersbrownworth.com/blockchain/)
 * [Bir blockchainin inşaası](https://observablehq.com/@consensys-academy/building-a-blockchain)
- [Blockchain Teknolojisi Nedir](https://blockgeeks.com/guides/what-is-blockchain-technology/)
+* [Blockchain Teknolojisi Nedir](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 * [Tüm blockchain ekosistemini kapsayan playlist](https://www.youtube.com/playlist?list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa)
 * [Blockchainin Temelleri](https://consensys.net/blog/blockchain-explained/here-comes-the-epoch-of-blockchain/)
 * [Orientus Prime - Blockchain Teknolojileri](https://orientusprime.medium.com/adan-z-ye-blockchain-teknolojileri-d4041c632df0)
