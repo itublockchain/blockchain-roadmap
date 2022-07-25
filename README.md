@@ -23,3 +23,35 @@
 * [Basitçe blockchainlerin işleyişi](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 * [Blockchainlerin detaylı işleyişi](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 [Blockchain nasıl çalışır](https://www.youtube.com/watch?v=kHybf1aC-jE)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+[Blokzincir Nedir'e git](#Blokzincir-nedir?)
