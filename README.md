@@ -19,7 +19,8 @@
 * [Sorularla Blockchain - Turan Sert](http://bit.ly/Sorularla_Blockchain)
 * [Blockchain Neden Hacklenemez](https://coinmarketcap.com/alexandria/article/why-nobody-can-hack-a-blockchain)
 * [Blockchain Nedir - Ledger Academy](https://www.ledger.com/academy/blockchain/what-is-blockchain)
-
+### Videolar
+#### Videolar
 ###### Videolar
 * [Basitçe blockchainlerin işleyişi](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 * [Blockchainlerin detaylı işleyişi](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
