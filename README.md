@@ -2,13 +2,14 @@
 ● Bu yol haritasının amacı blokzincir teknolojisi ve günümüzdeki uygulamarı hakkında bilgilenmek isteyen herkese, başlangıç aşamasından ileri taşıyacak kaynakları sunmaktır. ITU Blockchain üyeleri tarafından derlenen bu kaynak kütüphanesi ise güncelliğini korumayı hedeflemektedir. Ayrıca günlük olarak okuyup beğendiğimiz kaynakları da Telegram'daki ["Resources" kanalımızda](https://t.me/itublockchain) paylaşıyoruz.
 
 # Blokzincir nedir?
-## Kolay Kaynaklar
+## Başlangıç Seviyesi Kaynaklar 🟢
 * [Görsel blockchain anlatımı:](https://andersbrownworth.com/blockchain/) **kolay**
 * [Bir blockchainin inşaası](https://observablehq.com/@consensys-academy/building-a-blockchain) **orta**
+## Orta Seviye Kaynaklar 🔵
 * [Blockchain Teknolojisi Nedir](https://blockgeeks.com/guides/what-is-blockchain-technology/) **orta**
 * [Basitçe blockchainlerin işleyişi](https://www.youtube.com/watch?v=SSo_EIwHSd4) **VİDEO📼** 
 * [Tüm blockchain ekosistemini kapsayan playlist](https://www.youtube.com/playlist?list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa) **zor**
-## Zor Kaynaklar
+## İleri Seviye Kaynaklar 🔴
 * [Blockchainin Temelleri](https://consensys.net/blog/blockchain-explained/here-comes-the-epoch-of-blockchain/) **zor**
 * [Orientus Prime - Blockchain Teknolojileri](https://orientusprime.medium.com/adan-z-ye-blockchain-teknolojileri-d4041c632df0)
 * [Blockchainleri anlamak için önce State'i (Durum) Anlamak](https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/)
