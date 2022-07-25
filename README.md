@@ -6,7 +6,7 @@
 * [Görsel blockchain anlatımı:](https://andersbrownworth.com/blockchain/) **kolay**
 * [Bir blockchainin inşaası](https://observablehq.com/@consensys-academy/building-a-blockchain) **orta**
 * [Blockchain Teknolojisi Nedir](https://blockgeeks.com/guides/what-is-blockchain-technology/) **orta**
-* [Basitçe blockchainlerin işleyişi](https://www.youtube.com/watch?v=SSo_EIwHSd4) **VİDEO**
+* [Basitçe blockchainlerin işleyişi](https://www.youtube.com/watch?v=SSo_EIwHSd4) **VİDEO📼** 
 * [Tüm blockchain ekosistemini kapsayan playlist](https://www.youtube.com/playlist?list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa) **zor**
 ## Zor Kaynaklar
 * [Blockchainin Temelleri](https://consensys.net/blog/blockchain-explained/here-comes-the-epoch-of-blockchain/) **zor**
