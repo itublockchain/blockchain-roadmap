@@ -12,7 +12,7 @@
 | [Token Ekonomileri](tokenomics-nedir)|
 | [Blokzincir Üçlemesi](#blokzincir-üçlemesi-nedir)|
 | [Konsensus](#konsensus-nedir)|
-| [Etherum](#ethereum-nedir)|
+| [Ethereum](#ethereum-nedir)|
 | [Akıllı Sözleşmeler](#akıllı-sözleşmeler-nedir)|
 | [Kriptopara Cüzdanları](#cüzdanlar-nedir)|
 | [Gas ve Gwei](#gas-ve-gwei-nedir)|
