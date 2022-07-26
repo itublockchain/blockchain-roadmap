@@ -9,7 +9,7 @@
 | [Blokzincirin Temel Teknolojileri](#blokzincirin-temel-teknolojileri-nedir)|
 | [Blokzincir](#blokzincir-nedir)|
 | [Bitcoin](bitcoin-nedir)|
-| [Token ve Coin Ekonomileri](tokenomics-nedir)|
+| [Token Ekonomileri](tokenomics-nedir)|
 | [Blokzincir Üçlemesi](#blokzincir-üçlemesi-nedir)|
 | [Konsensus](#konsensus-nedir)|
 | [Etherum](#ethereum-nedir)|
