@@ -4,7 +4,7 @@
 ## İçerik
 | Konu Başlıkları  |
 |:------------- |
-| [Blokzincirin Temel Teknolojileri](#Blokzincirin-Temel-Teknolojileri-Nedir?)|
+| [blokzincirin temel teknolojileri](#blokzincirin-temel-teknolojileri-nedir?)|
 | [Blokzincir](#Blokzincir-Nedir?)|
 | [Bitcoin](#Bitcoin-Nedir?)|
 | [Token ve Coin Ekonomileri](#Tokenomics-Nedir?)|
