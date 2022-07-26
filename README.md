@@ -36,7 +36,7 @@
 * [**(Video)** SHA: Güvenli Hashing Algoritması - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
 * [**(Video)** Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
 * [**(Video)** What is Hashing & Digital Signature in The Blockchain?](https://www.youtube.com/watch?v=Y6GGzzKm2Ig&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=2)
-* [Başa dön ⬆](#içerik)
+* [Başa dön ⬆](#i̇çerik)
 
 ## Blokzincir Nedir?
 ### Başlangıç Seviyesi Kaynaklar 🟢
@@ -57,5 +57,5 @@
 * [Bitcoin (ve diğer kriptoparaların) aslında nasıl çalıştığını hiç merak ettiniz mi?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [What is a Blockchain? (Animated + Examples)](https://www.youtube.com/watch?v=kHybf1aC-jE)
 * [Blockchain Demo](https://andersbrownworth.com/blockchain/)
-* [Başa dön ⬆](#içerik)
+* [Başa dön ⬆](#i̇çerik)
 
