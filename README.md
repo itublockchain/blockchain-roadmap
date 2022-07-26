@@ -5,21 +5,21 @@
 | Konu Başlıkları  |
 |:------------- |
 | [Blokzincirin Temel Teknolojileri](#blokzincirin-temel-teknolojileri-nedir)|
-| [Blokzincir](#Blokzincir-Nedir?)|
-| [Bitcoin](#Bitcoin-Nedir?)|
-| [Token ve Coin Ekonomileri](#Tokenomics-Nedir?)|
-| [Blokzincir Üçlemesi](#Blokzincir-Üçlemesi-Nedir?)|
-| [Konsensus](#Konsensus-Nedir?)|
-| [Etherum](#Ethereum-Nedir?)|
-| [Akıllı Sözleşmeler](#Akıllı-Sözleşmeler-Nelerdir)|
-| [Kriptopara Cüzdanları](#Cüzdanlar-Nedir?)|
-| [Gas ve Gwei](#Gas-ve-Gwei-Nedir?)|
-| [Blok Tarayıcıları (Etherscan vs.)](#Blok-Tarayıcıları-Nedir?)|
-| [Merkeziyetsiz Finans (DeFi)](#Merkeziyetsiz-Finans-Nedir?)|
-| [NFT (Nitelikli Fikri ÇEVİRİYE BAK ZOOORT)](#NFT-Nedir?)|
-| [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#DAO-Nedir?)|
-| [Ethereum'un Ölçeklenmesi](#Ethereum'un-Ölçeklenme-Çözümleri)|
-| [Takip Ettiğimiz Bültenler](#Faydalı-Bültenler)|
+| [Blokzincir](#blokzincir-nedir)|
+| [Bitcoin](bitcoin-nedir)|
+| [Token ve Coin Ekonomileri](tokenomics-nedir)|
+| [Blokzincir Üçlemesi](#blokzincir-üçlemesi-nedir)|
+| [Konsensus](#konsensus-nedir)|
+| [Etherum](#ethereum-nedir)|
+| [Akıllı Sözleşmeler](#akıllı-sözleşmeler-nedir)|
+| [Kriptopara Cüzdanları](#cüzdanlar-nedir)|
+| [Gas ve Gwei](#gas-ve-gwei-nedir)|
+| [Blok Tarayıcıları (Etherscan vs.)](#blok-tarayıcıları-nedir)|
+| [Merkeziyetsiz Finans (DeFi)](#merkeziyetsiz-finans-nedir)|
+| [NFT (Nitelikli Fikri ÇEVİRİYE BAK ZOOORT)](#nft-nedir)|
+| [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#dao-nedir)|
+| [Ethereum'un Ölçeklenmesi](#ethereum'un-ölçeklenme-çözümleri)|
+| [Takip Ettiğimiz Bültenler](#faydalı-bültenler)|
 
 ## Blokzincirin Temel Teknolojileri Nedir?
 → Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
