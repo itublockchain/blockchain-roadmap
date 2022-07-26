@@ -21,6 +21,18 @@
 | [Ethereum'un Ölçeklenmesi](#Ethereum'un-Ölçeklenme-Çözümleri)|
 | [Takip Ettiğimiz Bültenler](#Faydalı-Bültenler)|
 
+# Blokzincirin Temel Teknolojileri Nedir?
+→ Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
+## Uçtan Uca ve Asimetrik Şifreleme
+* [What Is Asymmetric Encryption?](https://dzone.com/articles/what-is-asymmetric-encryption-understand-with-simp-1)
+* [**(Video)** Uçtan Uca Şifreleme (End to End Encryption, E2EE) - Computerphile](https://www.youtube.com/watch?v=jkV1KEJGKRA)
+## Hash Fonksiyonu ve Shor Algoritması
+* [Hash Algoritmasını Deneyimlemeniz için Araç](https://emn178.github.io/online-tools/sha256.html)
+* [**(Video)** SHA: Güvenli Hashing Algoritması - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
+* [**(Video)** Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
+* [Blockchain Underpinnings: Hashing](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
+
+
 # Blokzincir Nedir?
 ## Başlangıç Seviyesi Kaynaklar 🟢
 
