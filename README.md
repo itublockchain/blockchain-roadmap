@@ -47,6 +47,7 @@
 
 ### İleri Seviye Kaynaklar 🔴
 * [Building a blockchain](https://observablehq.com/@consensys-academy/building-a-blockchain)
+* [How does the Blockchain Work? (Part 1)](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)
 
 ### Videolar
 * [Blockchain nasıl işler? - Basitçe Açıklaması](https://www.youtube.com/watch?v=SSo_EIwHSd4)
