@@ -17,7 +17,7 @@
 | [Bloklar ve Blok Tarayıcıları (Etherscan vs.)](#bloklar-ve-blok-tarayıcıları-nedir)|
 | [Merkeziyetsiz Finans (DeFi)](#merkeziyetsiz-finans-nedir)|
 | [Token Ekonomileri](#tokenomics-nedir)|
-| [NFT (Nitelikli Fikri ÇEVİRİYE BAK ZOOORT)](#nft-nedir)|
+| [NFT](#nft-nedir)|
 | [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#dao-nedir)|
 | [Ethereum'un Ölçeklenmesi](#ethereumun-ölçeklenmesi)|
 | [Takip Ettiğimiz Bültenler](#faydalı-bültenler)|
