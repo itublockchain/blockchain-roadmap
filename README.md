@@ -35,6 +35,7 @@
 * [**(Video)** SHA: Güvenli Hashing Algoritması - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
 * [**(Video)** Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
 * [**(Video)** What is Hashing & Digital Signature in The Blockchain?](https://www.youtube.com/watch?v=Y6GGzzKm2Ig&list=PLy_eQQ6VGZFxUup6UrQumWu4i2xmtZcwa&index=2)
+
 * [Başa dön ⬆](#i̇çerik)
 
 ## Blokzincir Nedir?
@@ -193,4 +194,3 @@
 
 ## Faydalı Bültenler
 * [Başa dön ⬆](#i̇çerik)
-
