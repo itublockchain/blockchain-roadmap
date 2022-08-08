@@ -39,7 +39,7 @@
 * [Başa dön ⬆](#i̇çerik)
 
 ## Blokzincir Nedir?
-* Blockchain Explained](https://www.upfolio.com/ultimate-blockchain-guide)
+* [Blockchain Explained](https://www.upfolio.com/ultimate-blockchain-guide)
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
 * [Blokzinciri nedir?](https://www.coinbase.com/tr/learn/crypto-basics/what-is-a-blockchain)
 * [What is Blockchain?](https://www.ledger.com/academy/blockchain/what-is-blockchain)
@@ -125,11 +125,11 @@
 * [Let’s take a crack at understanding distributed consensus](https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus)
 * [Consensus Algorithms: The Root Of Blockchain Technology](https://101blockchains.com/consensus-algorithms-blockchain/)
 * [Proof of Stake FAQ](https://vitalik.ca/general/2017/12/31/pos_faq.html)
-* [Proof-of-Stake (PoS)](https://www.investopedia.com/terms/p/proof-stake-pos.asp
+* [Proof-of-Stake (PoS)](https://www.investopedia.com/terms/p/proof-stake-pos.asp)
 * [Hisse İspatı (Proof of Stake; PoS) Nedir?](https://www.ledger.com/tr/academy/hisse-ispati-proof-of-stake-pos-nedir)
 * [Proof-of-Work (PoW) vs Proof-of-Stake (PoS)](https://river.com/learn/proof-of-work-pow-vs-pos-proof-of-stake/)
 * [PoW Vs. PoS: A Comparison Between Two Blockchain Consensus Algorithms](https://101blockchains.com/pow-vs-pos-a-comparison/)
-* [Difference between Proof of Work (PoW) and Proof of Stake (PoS) in blockchain](https://www.geeksforgeeks.org/difference-between-proof-of-work-pow-and-proof-of-stake-pos-in-blockchain/
+* [Difference between Proof of Work (PoW) and Proof of Stake (PoS) in blockchain](https://www.geeksforgeeks.org/difference-between-proof-of-work-pow-and-proof-of-stake-pos-in-blockchain/)
 * [Başa dön ⬆](#i̇çerik)
 ### Madenciler
 * [MINING](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/)
