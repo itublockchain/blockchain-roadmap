@@ -104,6 +104,9 @@
 * [What is Smart Contracts](https://www.youtube.com/watch?v=pyaIppMhuic&t=245s)
 
 ## Cüzdanlar Nedir?
+* [Kripto Para Cüzdan Rehberi, Tobby Kitty](https://tobbykitty.com/2021/12/25/kripto-para-cuzdan-rehberi/)
+* [Multisig Cüzdan Nedir?](https://academy.binance.com/tr/articles/what-is-a-multisig-wallet)
+* [The Anatomy of MetaMask](https://juliawu.medium.com/the-anatomy-of-metamask-28b0d68721d2)
 * [Başa dön ⬆](#i̇çerik)
 
 ## Gas ve Gwei Nedir?
