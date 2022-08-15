@@ -101,7 +101,7 @@
 * [Decentralized Applications: The Blockchain-Empowered Software System](https://ieeexplore.ieee.org/document/8466786)
 ### Videolar
 * [Smart Contracts Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t=191s)
-* [What is Smart Contracts](https://www.youtube.com/watch?v=pyaIppMhuic&t=245s
+* [What is Smart Contracts](https://www.youtube.com/watch?v=pyaIppMhuic&t=245s)
 
 ## Cüzdanlar Nedir?
 * [Başa dön ⬆](#i̇çerik)
