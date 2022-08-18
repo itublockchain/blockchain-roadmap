@@ -14,7 +14,7 @@
 | [Kriptopara Cüzdanları](#cüzdanlar-nedir)|
 | [Gas ve Gwei](#gas-ve-gwei-nedir)|
 | [Konsensus](#konsensus-nedir)|
-| [Merkeziyetsiz Finans (DeFi)](#merkeziyetsiz-finans-nedir)|
+| [Merkeziyetsiz Finans (DeFi)](#merkeziyetsiz-finans-defi-nedir)|
 | [Token Ekonomileri](#tokenomics-nedir)|
 | [NFT](#nft-nedir)|
 | [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#dao-nedir)|
@@ -45,6 +45,8 @@
 * [What is Blockchain Technology? How Does Blockchain Work?](https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-technology)
 * [Building a blockchain](https://observablehq.com/@consensys-academy/building-a-blockchain)
 * [How does the Blockchain Work? (Part 1)](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)
+* [Awesome Blockchain](https://github.com/coderplex-org/awesome-blockchain#infographics)
+* [What do we mean by “blockchains are trustless”?](https://www.preethikasireddy.com/post/what-do-we-mean-by-blockchains-are-trustless)
 
 ### Videolar
 * [Blockchain nasıl işler? - Basitçe Açıklaması](https://www.youtube.com/watch?v=SSo_EIwHSd4)
@@ -101,6 +103,7 @@
 ### Videolar
 * [Smart Contracts Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t=191s)
 * [What is Smart Contracts](https://www.youtube.com/watch?v=pyaIppMhuic&t=245s)
+* [Başa dön ⬆](#i̇çerik)
 
 ## Cüzdanlar Nedir?
 * [Kripto Para Cüzdan Rehberi, Tobby Kitty](https://tobbykitty.com/2021/12/25/kripto-para-cuzdan-rehberi/)
@@ -116,6 +119,7 @@
 * [Başa dön ⬆](#i̇çerik)
 ### Videolar
 * [What Is GAS? Ethereum HIGH Transaction Fees Explained](https://www.youtube.com/watch?v=Yh8cHUB-KoU&t=1s&ab_channel=Finematics)
+* [Başa dön ⬆](#i̇çerik)
 
 ## Konsensus Nedir?
 * [CONSENSUS MECHANISMS](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
@@ -138,8 +142,15 @@
 * [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/)
 * [Madenciler, bu büyük makineler, ne yapıyor ne için çalışıyor?](https://twitter.com/TobbyKitty/status/1406914377790394368?s=20&t=ZIGi2Z65ePR5vAShXF6dcg)
 * [Madencilik Havuzları - Tobby Kitty](https://twitter.com/TobbyKitty/status/1394002635460599813?s=20&t=Hw3WenHMK9Ewwt5UCR-v9Q)
+* [Başa dön ⬆](#i̇çerik)
 
-## Merkeziyetsiz Finans Nedir?
+### Validatörler
+* [Validatör Nedir?, Tobby Kitty](https://twitter.com/TobbyKitty/status/1403980383008526336)
+* [What is a Validator](https://coinmarketcap.com/alexandria/glossary/validator)
+
+## Merkeziyetsiz Finans (DeFi) Nedir?
+* [DeFi’a Giriş](https://blog.itublockchain.com/defia-giri%C5%9F-2f4b3f2cf4ff)
+* [DeFi](https://ethereum.org/en/defi/)
 * [Başa dön ⬆](#i̇çerik)
 ## Tokenomics Nedir?
 * [Burası aktarılacak](https://github.com/jpantunes/awesome-cryptoeconomics)
@@ -173,21 +184,25 @@
 * [A Beginner’s Guide to Ethereum Scaling Solutions](https://www.defipulse.com/blog/a-beginners-guide-to-ethereum-scaling-solutions)
 * [Ethereum ve Rollup Teknolojileri](https://tobbykitty.com/2021/07/08/ethereum-ve-rollup-teknolojileri/)
 * [L2'de Ölçeklendirmede Optimistic Rollups ve ZK-Rollups Nedir? - Devrim Danyal](https://twitter.com/devrimdanyal/status/1413117904241967111?s=20&t=mFhsKPT9iWVQH-SkUdyRQQ)
+* [Başa dön ⬆](#i̇çerik)
 * [L2 Planet Learn: Rolluplar](https://layer2planet.substack.com/p/layer-2-101-rolluplar)
 ##### Videolar
 * [Ethereum LAYER 2 SCALING Explained](https://www.youtube.com/watch?v=BgCgauWVTs0&ab_channel=Finematics)
 * [ZK Rollups vs Optimistic Rollups](https://youtu.be/qV6YbuWhDXM)
+* [Başa dön ⬆](#i̇çerik)
 #### Optimistic Rolluplar
 * [Rollup Protocol](https://community.optimism.io/docs/protocol/2-rollup-protocol/#)
 * [Arbitrum Rollup Basics](https://developer.offchainlabs.com/docs/rollup_basics)
 * [(Almost) Everything you need to know about Optimistic Rollup](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup)
 * [How does Optimism's Rollup really work?](https://research.paradigm.xyz/optimism)
+* [Başa dön ⬆](#i̇çerik)
 #### ZK Rolluplar
 * [zk Teknolojisi ve zkSNARK nedir?](https://tobbykitty.com/2022/01/08/zk-teknolojisi-ve-zksnark-nedir/)
 * [zk-STARK nedir?](https://tobbykitty.com/2022/03/19/zk-stark-nedir/)
 * [Zero-Knowledge Proof ve SNARK nedir?](https://medium.com/@0xastronomica/zero-knowledge-proof-ve-snark-nedir-105a6de777f4)
 * [Firuz Kunt ile ZK'ya Doğru](https://zkape.substack.com/p/firuz-kunt-ile-zkya-dogru/comments)
 * [Geldim, Gördüm, EXECUTE Ettim!](https://medium.com/@CHARANKO/geldim-g%C3%B6rd%C3%BCm-execute-ettim-rollup-ec5af3998fb4)
+* [Başa dön ⬆](#i̇çerik)
 
 ## Faydalı Bültenler
 * [Başa dön ⬆](#i̇çerik)
