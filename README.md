@@ -14,7 +14,6 @@
 | [Kriptopara Cüzdanları](#cüzdanlar-nedir)|
 | [Gas ve Gwei](#gas-ve-gwei-nedir)|
 | [Konsensus](#konsensus-nedir)|
-| [Bloklar ve Blok Tarayıcıları (Etherscan vs.)](#bloklar-ve-blok-tarayıcıları-nedir)|
 | [Merkeziyetsiz Finans (DeFi)](#merkeziyetsiz-finans-nedir)|
 | [Token Ekonomileri](#tokenomics-nedir)|
 | [NFT](#nft-nedir)|
@@ -139,11 +138,6 @@
 * [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/)
 * [Madenciler, bu büyük makineler, ne yapıyor ne için çalışıyor?](https://twitter.com/TobbyKitty/status/1406914377790394368?s=20&t=ZIGi2Z65ePR5vAShXF6dcg)
 * [Madencilik Havuzları - Tobby Kitty](https://twitter.com/TobbyKitty/status/1394002635460599813?s=20&t=Hw3WenHMK9Ewwt5UCR-v9Q)
-
-
-## Bloklar ve Blok Tarayıcıları Nedir?
-* [BLOCKS](https://ethereum.org/en/developers/docs/blocks/)
-* [Başa dön ⬆](#i̇çerik)
 
 ## Merkeziyetsiz Finans Nedir?
 * [Başa dön ⬆](#i̇çerik)
