@@ -173,7 +173,7 @@
 * [What is a DAO? (In 2022)](https://daocentral.com/blog/what-is-a-dao)
 * [Başa dön ⬆](#i̇çerik)
 
-## Ethereum'un Ölçeklenmesi
+## Ölçeklenme Problemi ve Layer 2 Teknolojileri
 * [Rollups](https://ethereum.org/en/developers/docs/scaling/#layer-2-scaling)
 * [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
 * [Ethereum Blockchain Performance and Scalability](https://learn.bybit.com/blockchain/ethereum-blockchain-performance-and-scalability/)
