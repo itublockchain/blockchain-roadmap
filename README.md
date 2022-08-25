@@ -18,7 +18,7 @@
 | [Token Ekonomileri](#tokenomics-nedir)|
 | [NFT](#nft-nedir)|
 | [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#dao-nedir)|
-| [Ethereum'un Ölçeklenmesi](#ethereumun-ölçeklenmesi)|
+| [Ethereum'un Ölçeklenmesi](#ölçeklenme-problemi-ve-layer-2-teknolojileri)|
 | [Takip Ettiğimiz Bültenler](#faydalı-bültenler)|
 
 ## Blokzincirin Temel Teknolojileri Nedir?
