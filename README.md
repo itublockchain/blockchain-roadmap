@@ -47,6 +47,7 @@
 * [How does the Blockchain Work? (Part 1)](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)
 * [Awesome Blockchain](https://github.com/coderplex-org/awesome-blockchain#infographics)
 * [What do we mean by “blockchains are trustless”?](https://www.preethikasireddy.com/post/what-do-we-mean-by-blockchains-are-trustless)
+* [Daha detaylı içerik için Biz Bize Blockchain 101](https://docs.google.com/document/d/1A7aiKofBDBejMNg056slF5UxFlj-vxZNA3Rhvz8OszM/edit)
 
 ### Videolar
 * [Blockchain nasıl işler? - Basitçe Açıklaması](https://www.youtube.com/watch?v=SSo_EIwHSd4)
@@ -151,15 +152,22 @@
 ## Merkeziyetsiz Finans (DeFi) Nedir?
 * [DeFi’a Giriş](https://blog.itublockchain.com/defia-giri%C5%9F-2f4b3f2cf4ff)
 * [DeFi](https://ethereum.org/en/defi/)
+* [Daha detaylı içerik için Biz Bize DeFi](https://docs.google.com/document/d/1EMrYRZLq98tmZU8eCmVG_opcHfW58_fM4aN7-pzFNjU/edit)
 * [Başa dön ⬆](#i̇çerik)
+
 ## Tokenomics Nedir?
-* [Burası aktarılacak](https://github.com/jpantunes/awesome-cryptoeconomics)
+* [Tokenomics 101](https://every.to/almanack/tokenomics-101)
+* [Tokenomics 102](https://every.to/almanack/tokenomics-102-digging-deeper-on-supply)
+* [Tokenomics 103](https://every.to/almanack/tokenomics-103-utility)
+* [Tokenomics 104](https://every.to/almanack/tokenomics-104-how-to-launch-a-token-tactics-questions-wen-etc)
+* [Daha detaylı içerik için repo](https://github.com/jpantunes/awesome-cryptoeconomics)
 * [Başa dön ⬆](#i̇çerik)
 
 ## NFT Nedir?
 * [Non-fungible tokens (NFT)](https://ethereum.org/en/nft/)
 * [NFT’ler hakkında bilmeniz gereken her şey](https://tobbykitty.com/2021/07/08/nftler-hakkinda-bilmeniz-gereken-her-sey/)
 * [Non-Fungible Token (NFT) nedir?](https://www.ledger.com/tr/academy/nfts/non-fungible-token-nft-nedir)
+* [Daha detaylı içerik için Biz Bize NFT](https://docs.google.com/document/d/1fDHMsCZEMo5MFFTCbrrTjxZXn6HX78kjC_8aO828UFs/edit)
 * [Başa dön ⬆](#i̇çerik)
 ### Videolar
 * [NFT Mania - Hype Or A New Paradigm?](https://www.youtube.com/watch?v=WOxYlBTRncY&ab_channel=Finematics)
@@ -171,12 +179,14 @@
 * [Merkezi Olmayan Otonom Organizasyon (DAO) Nedir](https://tr.cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work)
 * [What Is A DAO And How Do They Work?](https://consensys.net/blog/blockchain-explained/what-is-a-dao-and-how-do-they-work/)
 * [What is a DAO? (In 2022)](https://daocentral.com/blog/what-is-a-dao)
+* [Daha detaylı içerik için Biz Bize DAO](https://docs.google.com/document/d/1x0i91mfC7SjtRKGNYVeWNj2Ul45rR6e0cdvPdAGm1m0/edit)
 * [Başa dön ⬆](#i̇çerik)
 
 ## Ölçeklenme Problemi ve Layer 2 Teknolojileri
 * [Rollups](https://ethereum.org/en/developers/docs/scaling/#layer-2-scaling)
 * [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
 * [Ethereum Blockchain Performance and Scalability](https://learn.bybit.com/blockchain/ethereum-blockchain-performance-and-scalability/)
+* [Daha detaylı içerik için Biz Bize Layer 2](https://docs.google.com/document/d/1x0i91mfC7SjtRKGNYVeWNj2Ul45rR6e0cdvPdAGm1m0/edit)
 * [Başa dön ⬆](#i̇çerik)
 ### Rolluplar Nedir?
 * [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
