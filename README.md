@@ -214,6 +214,5 @@
 * [Geldim, Gördüm, EXECUTE Ettim!](https://medium.com/@CHARANKO/geldim-g%C3%B6rd%C3%BCm-execute-ettim-rollup-ec5af3998fb4)
 * [Başa dön ⬆](#i̇çerik)
 
-## Faydalı Bültenler
-* [Takip Ettiklerimiz](https://docs.google.com/spreadsheets/d/1iV9PMgnpDDLB9QZ_zflLk7i11EgwyIr_74wNPxsYLL8/edit?usp=sharing)
+## Faydalı Bültenler(https://docs.google.com/spreadsheets/d/1iV9PMgnpDDLB9QZ_zflLk7i11EgwyIr_74wNPxsYLL8/edit?usp=sharing)
 * [Başa dön ⬆](#i̇çerik)
