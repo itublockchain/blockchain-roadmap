@@ -19,7 +19,7 @@
 | [NFT](#nft-nedir)|
 | [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#dao-nedir)|
 | [Ölçeklenme Problemi ve Layer 2 Teknolojileri](#ölçeklenme-problemi-ve-layer-2-teknolojileri)|
-| [Takip Ettiğimiz Bültenler](#faydalı-bültenler)|
+| [Takip Ettiğimiz Bültenler](https://docs.google.com/spreadsheets/d/1iV9PMgnpDDLB9QZ_zflLk7i11EgwyIr_74wNPxsYLL8/edit?usp=sharing)|
 
 ## Blokzincirin Temel Teknolojileri Nedir?
 → Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
@@ -212,7 +212,4 @@
 * [Zero-Knowledge Proof ve SNARK nedir?](https://medium.com/@0xastronomica/zero-knowledge-proof-ve-snark-nedir-105a6de777f4)
 * [Firuz Kunt ile ZK'ya Doğru](https://zkape.substack.com/p/firuz-kunt-ile-zkya-dogru/comments)
 * [Geldim, Gördüm, EXECUTE Ettim!](https://medium.com/@CHARANKO/geldim-g%C3%B6rd%C3%BCm-execute-ettim-rollup-ec5af3998fb4)
-* [Başa dön ⬆](#i̇çerik)
-
-## [Faydalı Bültenler](https://docs.google.com/spreadsheets/d/1iV9PMgnpDDLB9QZ_zflLk7i11EgwyIr_74wNPxsYLL8/edit?usp=sharing)
 * [Başa dön ⬆](#i̇çerik)
