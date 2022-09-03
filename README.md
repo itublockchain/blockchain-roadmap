@@ -215,4 +215,5 @@
 * [Başa dön ⬆](#i̇çerik)
 
 ## Faydalı Bültenler
+* [Takip Ettiklerimiz](https://docs.google.com/spreadsheets/d/1iV9PMgnpDDLB9QZ_zflLk7i11EgwyIr_74wNPxsYLL8/edit?usp=sharing)
 * [Başa dön ⬆](#i̇çerik)
