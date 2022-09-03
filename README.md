@@ -29,7 +29,7 @@
 ### Hash Fonksiyonu ve Shor Algoritması
 * [Hash Algoritmasını Deneyimlemeniz için Araç](https://emn178.github.io/online-tools/sha256.html)
 * [Blockchain Underpinnings: Hashing](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
-* [**Türkçe** Ori'nin Blokzincir Teknolojilerini Anlatan Makalesi](https://orientusprime.medium.com/adan-z-ye-blockchain-teknolojileri-d4041c632df0)
+* [A’dan Z’ye Blockchain Teknolojileri](https://orientusprime.medium.com/adan-z-ye-blockchain-teknolojileri-d4041c632df0)
 * [You Need to Understand State](https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/)
 * [**(Video)** SHA: Güvenli Hashing Algoritması - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
 * [**(Video)** Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
