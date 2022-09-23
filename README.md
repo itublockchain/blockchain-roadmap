@@ -146,6 +146,9 @@
 * [Madencilik Havuzları - Tobby Kitty](https://twitter.com/TobbyKitty/status/1394002635460599813?s=20&t=Hw3WenHMK9Ewwt5UCR-v9Q)
 * [Başa dön ⬆](#i̇çerik)
 
+### Merge
+*[Merge/Birleşme](https://ethereum.org/tr/upgrades/merge/#read-more)
+
 ### Validatörler
 * [Validatör Nedir?, Tobby Kitty](https://twitter.com/TobbyKitty/status/1403980383008526336)
 * [What is a Validator](https://coinmarketcap.com/alexandria/glossary/validator)
