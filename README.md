@@ -147,7 +147,7 @@
 * [Başa dön ⬆](#i̇çerik)
 
 ### Merge
-*[Merge/Birleşme](https://ethereum.org/tr/upgrades/merge/#read-more)
+* [Merge/Birleşme](https://ethereum.org/tr/upgrades/merge/#read-more)
 
 ### Validatörler
 * [Validatör Nedir?, Tobby Kitty](https://twitter.com/TobbyKitty/status/1403980383008526336)
