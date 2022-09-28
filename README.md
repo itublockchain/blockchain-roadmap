@@ -148,6 +148,7 @@
 
 ### Merge
 * [Merge/Birleşme](https://ethereum.org/tr/upgrades/merge/#read-more)
+* [Geçmişten Geleceğe Ethereum](https://orientusprime.medium.com/ge%C3%A7mi%C5%9Ften-gelece%C4%9Fe-ethereum-77c708959641)
 
 ### Validatörler
 * [Validatör Nedir?, Tobby Kitty](https://twitter.com/TobbyKitty/status/1403980383008526336)
