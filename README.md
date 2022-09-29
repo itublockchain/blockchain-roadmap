@@ -217,4 +217,4 @@
 * [Zero-Knowledge Proof ve SNARK nedir?](https://medium.com/@0xastronomica/zero-knowledge-proof-ve-snark-nedir-105a6de777f4)
 * [Firuz Kunt ile ZK'ya Doğru](https://zkape.substack.com/p/firuz-kunt-ile-zkya-dogru/comments)
 * [Geldim, Gördüm, EXECUTE Ettim!](https://medium.com/@CHARANKO/geldim-g%C3%B6rd%C3%BCm-execute-ettim-rollup-ec5af3998fb4)
-* [Başa dön ⬆](#i̇çerik)
+* [Başa dön ⬆](#i̇çerik).
