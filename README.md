@@ -158,6 +158,7 @@
 * [DeFi’a Giriş](https://blog.itublockchain.com/defia-giri%C5%9F-2f4b3f2cf4ff)
 * [DeFi](https://ethereum.org/en/defi/)
 * [Daha detaylı içerik için Biz Bize DeFi](https://docs.google.com/document/d/1EMrYRZLq98tmZU8eCmVG_opcHfW58_fM4aN7-pzFNjU/edit)
+* [Awesome AMM](https://github.com/0xperp/awesome-amm)
 * [Başa dön ⬆](#i̇çerik)
 
 ## Tokenomics Nedir?
