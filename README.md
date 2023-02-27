@@ -27,6 +27,9 @@
 * [What Is Asymmetric Encryption?](https://dzone.com/articles/what-is-asymmetric-encryption-understand-with-simp-1)
 * [**(Video)** Uçtan Uca Şifreleme (End to End Encryption, E2EE) - Computerphile](https://www.youtube.com/watch?v=jkV1KEJGKRA)
 ### Hash Fonksiyonu ve Shor Algoritması
+Kriptografik hash fonksiyonu, kriptografi alanında kullanılan bir matematiksel fonksiyondur. Tipik olarak hash fonksiyonları, sabit bir uzunlukta çıktılar üretmek için değişken uzunluklu girdileri kullanır. Kriptografik hash fonksiyonu, hash fonksiyonlarının mesaj iletim yeteneklerini güvenlik özellikleriyle birleştirir.
+Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde karmaşıklık ve zorluk düzeyleri vardır. Hash fonksiyonları kripto para birimi, parola güvenliği ve mesaj güvenliği için kullanılır. Her girdi için özel bir çıktıya sahiptir yani blokzincire kaydedilen bir hash çıktısının girdisini bulmak oldukça zordur. İşte size daha anlaşılır kılmak için SHA-256 algoritmasından örnek hazırladık.
+
 * [Hash Algoritmasını Deneyimlemeniz için Araç](https://emn178.github.io/online-tools/sha256.html)
 * [Blockchain Underpinnings: Hashing](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
 * [A’dan Z’ye Blockchain Teknolojileri](https://orientusprime.medium.com/adan-z-ye-blockchain-teknolojileri-d4041c632df0)
