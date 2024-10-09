@@ -21,7 +21,7 @@
 | [NFT](#nft-nedir)|
 | [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#dao-nedir)|
 | [Ölçeklenme Problemi ve Layer 2 Teknolojileri](#ölçeklenme-problemi-ve-layer-2-teknolojileri)|
-| [Blockchain Güvenliği ve Zorlukları](## Blockchain Güvenliği ve Zorlukları)|
+| [Blockchain Güvenliği ve Zorlukları](#Blockchain-Güvenliği-ve-Zorlukları)|
 
 ## Blokzincirin Temel Teknolojileri Nedir?
 → Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
