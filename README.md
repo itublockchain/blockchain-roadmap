@@ -31,11 +31,11 @@
 * [Public Key Cryptography Simply Explained](https://hackernoon.com/public-key-cryptography-simply-explained-e932e3093046)
 * [Public Key Cryptography — A Comprehensive Guide](https://medium.com/blockwhat/public-key-cryptography-a-comprehensive-guide-1e8489e08104)
 
-  ### Meraklısına - Uçtan Uca ve Asimetrik Şifreleme
+  ### - Meraklısına - Uçtan Uca ve Asimetrik Şifreleme
 → Uçtan Uca ve Asimetrik Şifreleme hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz:
-* [What is an Asymmetric Encryption?](https://www.geeksforgeeks.org/what-is-asymmetric-encryption/)
-* [What is end-to-end encryption (E2EE)?](https://www.ibm.com/topics/end-to-end-encryption)
-* [From Mnemonic Phrase to Private Key: Everything You Need to Know](https://hackernoon.com/from-mnemonic-phrase-to-private-key-everything-you-need-to-know)
+    * [What is an Asymmetric Encryption?](https://www.geeksforgeeks.org/what-is-asymmetric-encryption/)
+    * [What is end-to-end encryption (E2EE)?](https://www.ibm.com/topics/end-to-end-encryption)
+    * [From Mnemonic Phrase to Private Key: Everything You Need to Know](https://hackernoon.com/from-mnemonic-phrase-to-private-key-everything-you-need-to-know)
 
 ### Hash Fonksiyonu ve Shor Algoritması
 Kriptografik hash fonksiyonu, kriptografi alanında kullanılan bir matematiksel fonksiyondur. Tipik olarak hash fonksiyonları, sabit bir uzunlukta çıktılar üretmek için değişken uzunluklu girdileri kullanır. Kriptografik hash fonksiyonu, hash fonksiyonlarının mesaj iletim yeteneklerini güvenlik özellikleriyle birleştirir.
