@@ -32,7 +32,8 @@
 * [Public Key Cryptography — A Comprehensive Guide](https://medium.com/blockwhat/public-key-cryptography-a-comprehensive-guide-1e8489e08104)
 
 **_Meraklısına - Uçtan Uca ve Asimetrik Şifreleme_**
-→ Uçtan Uca ve Asimetrik Şifreleme hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz:
+
+* → Uçtan Uca ve Asimetrik Şifreleme hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz:
 * [What is an Asymmetric Encryption?](https://www.geeksforgeeks.org/what-is-asymmetric-encryption/)
 * [What is end-to-end encryption (E2EE)?](https://www.ibm.com/topics/end-to-end-encryption)
 * [From Mnemonic Phrase to Private Key: Everything You Need to Know](https://hackernoon.com/from-mnemonic-phrase-to-private-key-everything-you-need-to-know)
