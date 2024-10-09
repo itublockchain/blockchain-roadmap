@@ -1,9 +1,10 @@
 # Blokzincir Yol Haritası
 * Bu yol haritasının amacı blokzincir teknolojisi ve günümüzdeki uygulamaları hakkında bilgilenmek isteyen herkese, başlangıç aşamasından ileri taşıyacak kaynakları sunmaktır. ITU Blockchain üyeleri tarafından derlenen bu kaynak kütüphanesi güncel olarak ITU Blockchain çeviri ekibi tarafından Türkçeleştirilmektedir. Yol haritasındaki birçok kaynak İngilizce olarak yer alsa da ilgili konu başlıkları altındaki kaynakların Türkçeye çevrilmiş hali düzenli olarak yol haritasına eklenecektir. Umarız bu yol haritası Blockchain öğrenme yolculuğunuzda kapsamlı bir yol haritası olur!
 
-* This roadmap was prepared by members of ITU Blockchain, Turkey’s first and biggest university blockchain club. Although the most of the resources are originally in English, they have been translated into Turkish by our research members. If you’d like to see the sources in their original languages, you can check out the first couple of lines in the Medium articles. We hope this blockchain roadmap will be a comprehensive guide in your blockchain learning journey!
-
 * Aşağıdaki tablodan ilgilendiğiniz başlıklara tıklayarak kaynaklara ulaşabilirsiniz 👇🏻
+
+* This roadmap was prepared by members of ITU Blockchain, Turkey’s first and biggest university blockchain club. Although the most of the resources are originally in English, they have been translated into Turkish by our translation team. If you’d like to see the sources in their original languages, you can check out the first couple of lines in the Medium articles. We hope this blockchain roadmap will be a comprehensive guide in your blockchain learning journey! 
+
 
 ## İçerik
 | Konu Başlıkları  |
@@ -21,7 +22,7 @@
 | [NFT](#nft-nedir)|
 | [DAO (Merkeziyetsiz Otonom Organizasyonlar)](#dao-nedir)|
 | [Ölçeklenme Problemi ve Layer 2 Teknolojileri](#ölçeklenme-problemi-ve-layer-2-teknolojileri)|
-| [Blockchain Güvenliği ve Zorlukları](#Blockchain-Güvenliği-ve-Zorlukları)|
+| [Blockchain Güvenliği ve Zorlukları](#blockchain-güvenliği-ve-zorlukları)|
 
 ## Blokzincirin Temel Teknolojileri Nedir?
 → Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
@@ -322,7 +323,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 ### Meraklısına - DAO'lar
 → DAO'lar hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz:
 * [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/)
-* [How to Create a DAO in 10 Minutes(https://101blockchains.com/create-a-dao-in-10-minutes/)
+* [How to Create a DAO in 10 Minutes](https://101blockchains.com/create-a-dao-in-10-minutes/)
 * [Making DAOs Work](https://otherinternet.substack.com/p/making-daos-work?open=false#%C2%A7what-is-dao-work)
 * [How to Create & Run a DAO? A Comprehensive Guide!](https://www.blockchain-council.org/dao/how-to-create-run-a-dao-a-comprehensive-guide/)
 * [How DAOs Do: A Guide](https://medium.com/momentum6/how-daos-do-a-guide-1093fd51a770)
@@ -382,7 +383,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [Plasma Chains vs Rollups: Which is a viable Layer2 scaling solution, and Why?](https://medium.com/zeeve/plasma-chains-vs-rollups-which-is-a-viable-layer2-scaling-solution-and-why-0aecc3ef70b4)
 * [Whatever happened to nested plasma chains?](https://medium.com/@kelvinfichter/whatever-happened-to-nested-plasma-chains-ee9d66d33536)
 * [Bridgeless Cross-chain Swaps; Could this be a Replacement for Side-Chains and others.](https://medium.com/coinmonks/bridgeless-cross-chain-swaps-could-this-be-a-replacement-for-side-chains-and-others-832493d3c908)
-* [What are state channels in blockchain?](https://www.educative.io/answers/what-are-state-channels-in-blockchain
+* [What are state channels in blockchain?](https://www.educative.io/answers/what-are-state-channels-in-blockchain)
 * [Validiums](https://docs.zksync.io/zk-stack/concepts/data-availability/validiums)
 * [Başa dön ⬆](#i̇çerik)
 
