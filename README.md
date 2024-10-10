@@ -80,7 +80,7 @@ __🔎 Meraklısına__
 * [Blockchain Use Cases](https://consensys.io/blockchain-use-cases)
 * [Exploring Blockchain Use Cases Across Industries](https://www.ulam.io/blog/exploring-blockchain-use-cases-across-industries)
 * [An Overview of Smart Contract and Use Cases in Blockchain Technology](https://www.researchgate.net/publication/328581609_An_Overview_of_Smart_Contract_and_Use_Cases_in_Blockchain_Technology)
-* [9 Real-World Use Cases of Blockchain Technology(https://www.cryptoblogs.io/real-world-use-cases-of-blockchain-technology/)
+* [9 Real-World Use Cases of Blockchain Technology](https://www.cryptoblogs.io/real-world-use-cases-of-blockchain-technology/)
 * [Use Cases of AI in Blockchain](https://blog.chain.link/blockchain-ai-use-cases/)
 * [DePIN: What are Decentralized Physical Infrastructure Networks?](https://www.peaq.network/blog/what-are-decentralized-physical-infrastructure-networks-depin?gad_source=1)
 
@@ -343,7 +343,7 @@ __🔎 Meraklısına__
 * [NFT’ler hakkında bilmeniz gereken her şey](https://tobbykitty.com/2021/07/08/nftler-hakkinda-bilmeniz-gereken-her-sey/)
 * [NFTs Are Worth Understanding](https://nickwidmer.substack.com/p/nftsareworthunderstanding)
 
-#__🎥 Videolar__
+__🎥 Videolar__
 * [NFTLER İLE İLGİLİ BİLMENİZ GEREKEN HER ŞEY I NFT NEDİR](https://www.youtube.com/watch?v=1RgaGu0BJcU&ab_channel=SelimC.)
 * [NFT Mania - Hype Or A New Paradigm? CryptoPunks, BAYC, Generative Art, Loot Explained](https://www.youtube.com/watch?v=WOxYlBTRncY&ab_channel=Finematics)
 
