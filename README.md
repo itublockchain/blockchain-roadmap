@@ -48,6 +48,7 @@ __🎥 Videolar__
 * [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
 
 __🔎 Meraklısına__
+
 → Hash Fonksiyonu ve Shor Algoritması hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Introduction to Cryptographic Hash Functions](https://hackernoon.com/cryptographic-hash-functions-in-blockchain-with-bash-and-python-code)
 * [A’dan Z’ye Blockchain Teknolojileri](https://orientusprime.medium.com/adan-z-ye-blockchain-teknolojileri-d4041c632df0)
