@@ -31,7 +31,7 @@
 * [Public Key Cryptography Simply Explained](https://hackernoon.com/public-key-cryptography-simply-explained-e932e3093046)
 * [Public Key Cryptography — A Comprehensive Guide](https://medium.com/blockwhat/public-key-cryptography-a-comprehensive-guide-1e8489e08104)
 
-**_✎ Meraklısına → Uçtan Uca ve Asimetrik Şifreleme_**
+**_🗝 Meraklısına → Uçtan Uca ve Asimetrik Şifreleme_**
 
 → Uçtan Uca ve Asimetrik Şifreleme hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What is an Asymmetric Encryption?](https://www.geeksforgeeks.org/what-is-asymmetric-encryption/)
@@ -46,7 +46,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [Hash Algoritmasını Deneyimlemeniz için Araç](https://emn178.github.io/online-tools/sha256.html)
 
 
-**_Meraklısına → Hash Fonksiyonu ve Shor Algoritması_**
+**_🗝 Meraklısına → Hash Fonksiyonu ve Shor Algoritması_**
 
 → Hash Fonksiyonu ve Shor Algoritması hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Introduction to Cryptographic Hash Functions](https://hackernoon.com/cryptographic-hash-functions-in-blockchain-with-bash-and-python-code)
@@ -64,7 +64,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [What is a Blockchain? (Animated + Examples)](https://www.youtube.com/watch?v=kHybf1aC-jE)
 * [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 
-**_Meraklısına → Blokzincir_**
+**_🗝 Meraklısına → Blokzincir_**
 
 → Blokzincir hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What Is Blockchain?](https://www.ledger.com/academy/what-is-blockchain)
@@ -95,7 +95,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [What You Need to Know About the Bitcoin Halving](https://www.chainalysis.com/blog/bitcoin-halving-2024/ )
 
 
-**_Meraklısına → Bitcoin_**
+**_🗝 Meraklısına → Bitcoin_**
 
 → Bitcoin hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
@@ -116,7 +116,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [Ethereum Nedir? Dijital geleceğimizin temeli](https://ethereum.org/tr/what-is-ethereum/)
 * [Ethereum Aslında Nasıl Çalışır?](https://blog.itublockchain.com/ethereum-asl%C4%B1nda-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-%C3%A7eviri-2a1ea423078c)
 
-**_Meraklısına → Ethereum_**
+**_🗝 Meraklısına → Ethereum_**
 
 → Ethereum hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Vitalik'in Bitcointalk'ta Ethereum'u tanıttığı paylaşım](https://bitcointalk.org/index.php?topic=428589.0)
@@ -141,7 +141,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 ### Merkle Trees
 * [Merkle Root](https://learnmeabitcoin.com/technical/block/merkle-root/)
 
-**_Meraklısına → Merkle Trees_**
+**_🗝 Meraklısına → Merkle Trees_**
 
 → Merkle Trees hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Concept of Merkle Tree in Ethereum](https://etherworld.co/2017/02/15/concept-of-merkle-tree-in-ethereum/)
@@ -157,7 +157,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY&ab_channel=Ethereum)
 * [Ethereum Tutorial](https://www.youtube.com/watch?v=EYAwz0Jp1Og&t=3s&ab_channel=Simplilearn)
 
-**_Meraklısına → Ethereum Virtual Machine (EVM)_**
+**_🗝 Meraklısına → Ethereum Virtual Machine (EVM)_**
 
 → EVM hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [The Ethereum Virtual Machine](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)
@@ -177,7 +177,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [Smart Contracts Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t=191s)
 * [What is Smart Contracts](https://www.youtube.com/watch?v=pyaIppMhuic&t=245s)
 
-### Meraklısına - Akıllı Sözleşmeler
+**_🗝 Meraklısına → Akıllı Sözleşmeler_**
 
 → Akıllı Sözleşmeler hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What is a Smart Contract?](https://docs.near.org/build/smart-contracts/what-is)
@@ -191,7 +191,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 ### Merkeziyetsiz Uygulamalar (Dapp'ler)
 * [INTRODUCTION TO DAPPS](https://ethereum.org/en/developers/docs/dapps/)
 
-**_Meraklısına → Merkeziyetsiz Uygulamalar_**
+**_🗝 Meraklısına → Merkeziyetsiz Uygulamalar_**
 
 → Merkeziyetsiz Uygulamalar hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What are DApps? Everything there is to know about decentralized applications](https://cointelegraph.com/learn/what-are-dapps-everything-there-is-to-know-about-decentralized-applications)
@@ -204,7 +204,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [Kripto Para Cüzdan Rehberi](https://tobbykitty.com/2021/12/25/kripto-para-cuzdan-rehberi/)
 * [The Business Model of Crypto-wallets](https://hackernoon.com/the-business-model-of-crypto-wallets-89aeed8322dc)
 
-### Meraklısına - Cüzdanlar
+**_🗝 Meraklısına → Cüzdanlar__*
 
 →Cüzdanlar hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What Is a Crypto Wallet?](https://www.ledger.com/academy/basic-basics/2-how-to-own-crypto/what-is-a-crypto-wallet)
@@ -221,7 +221,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 ### Videolar
 * [What Is GAS? Ethereum HIGH Transaction Fees Explained](https://www.youtube.com/watch?v=Yh8cHUB-KoU&t=1s&ab_channel=Finematics)
 
-**_Meraklısına → Gaz ve Gwei_**
+**_🗝 Meraklısına → Gaz ve Gwei_**
 
 → Gaz ve Gwei hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What are Ethereum gas fees? ETH fees explained](https://www.moonpay.com/tr/learn/defi/what-are-ethereum-gas-fees)
@@ -240,7 +240,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [What is Proof of Work? (Cryptocurrency Explanation)](https://www.youtube.com/watch?v=XLcWy1uV8YM&ab_channel=WhiteboardCrypto)
 * [What is Proof of Stake? How it works (Animated) + Ethereum 2.0 Upgrade!](https://www.youtube.com/watch?v=x83EVUZ_EWo&ab_channel=WhiteboardCrypto)
 
-**_Meraklısına → Konsensus_**
+**_🗝 Meraklısına → Konsensus_**
 
 → Konsensus hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Why Proof of Stake](https://vitalik.eth.limo/general/2020/11/06/pos2020.html)
@@ -256,7 +256,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [MINING](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/)
 * [Madenciler, bu büyük makineler, ne yapıyor ne için çalışıyor?](https://twitter.com/TobbyKitty/status/1406914377790394368?s=20&t=ZIGi2Z65ePR5vAShXF6dcg)
 
-**_Meraklısına → Madencilik_**
+**_🗝 Meraklısına → Madencilik_**
 
 → Madencilik hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Madencilik Havuzları](https://twitter.com/TobbyKitty/status/1394002635460599813?s=20&t=Hw3WenHMK9Ewwt5UCR-v9Q)
@@ -268,7 +268,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [The Merge](https://ethereum.org/en/roadmap/merge/)
 * [The Ethereum Merge: what to expect?](https://blog.1inch.io/the-ethereum-merge-what-to-expect/)
 
-**_Meraklısına → Merge_**
+**_🗝 Meraklısına → Merge_**
 
 → Merge hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What Is the Ethereum Merge?](https://www.coindesk.com/learn/what-is-the-merge-and-why-has-it-taken-so-long/)
@@ -282,7 +282,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 ### Slashing
 * [Slashing](https://eth2book.info/altair/part2/incentives/slashing/)
 
-**_Meraklısına → Validatörler ve Staking_**
+**_🗝 Meraklısına → Validatörler ve Staking_**
 
 → Validatörler ve Staking hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What Is A Blockchain Validator?](https://cryptomus.com/blog/what-is-a-blockchain-validator?srsltid=AfmBOorQdQ1qh4148GNFYmmI7v3VIE23wbbPF7G24-Gg1ZZIucOcDGeS)
@@ -299,7 +299,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [DeFi’ı Yeniden Tanımlamak: Zorluklar ve Yol Haritası](https://blog.itublockchain.com/defi%C4%B1-yeniden-tan%C4%B1mlamak-zorluklar-ve-yol-haritas%C4%B1-%C3%A7eviri-22c6286cca88)
 * [What is DeFi? The Ultimate DeFi 101 Guide to Ethereum, Layer 2s, Yield Farming, and More](https://thedefiant.io/education/level-up/what-is-defi)
 
-**_Meraklısına → DeFi_**
+**_🗝 Meraklısına → DeFi_**
 
 → DeFi hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What is DeFi? A beginner's guide to decentralized finance](https://cointelegraph.com/learn/defi-a-comprehensive-guide-to-decentralized-finance)
@@ -324,7 +324,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [Tokenomics 102](https://every.to/almanack/tokenomics-102-digging-deeper-on-supply)
 * [Tokenomics 103](https://every.to/almanack/tokenomics-103-utility)
 
-**_Meraklısına - Tokenomics_**
+**_🗝 Meraklısına → Tokenomics_**
 
 → Tokenomics hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Tokenomics 104](https://every.to/almanack/tokenomics-104-how-to-launch-a-token-tactics-questions-wen-etc)
@@ -342,7 +342,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [NFTLER İLE İLGİLİ BİLMENİZ GEREKEN HER ŞEY I NFT NEDİR](https://www.youtube.com/watch?v=1RgaGu0BJcU&ab_channel=SelimC.)
 * [NFT Mania - Hype Or A New Paradigm? CryptoPunks, BAYC, Generative Art, Loot Explained](https://www.youtube.com/watch?v=WOxYlBTRncY&ab_channel=Finematics)
 
-**_Meraklısına → NFT'ler_**
+**_🗝 Meraklısına → NFT'ler_**
 
 → NFT'ler hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [NFTs Explained: A Must-Read Guide to Everything Non-Fungible](https://nftnow.com/guides/what-is-nft-meaning/)
@@ -357,7 +357,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 ### _Videolar_
 * [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE&ab_channel=WhiteboardCrypto)
 
-### Meraklısına - DAO'lar
+**_🗝 Meraklısına → DAO'lar_**
 
 → DAO'lar hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/)
@@ -386,7 +386,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [Basitçe zkPorter: Aradığımız Ölçeklenme Çözümü Burada Mı?](https://blog.itublockchain.com/basitçe-zkporter-aradığımız-ölçeklenme-çözümü-burada-mı-c6ecdfca6d16)
 
 
-**_Meraklısına → Rollup'lar_**
+**_🗝 Meraklısına → Rollup'lar_**
 
 → Rollup'lar hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [What are ZK-Rollups? How Zero-Knowledge Rollups work](https://www.moonpay.com/tr/learn/blockchain/what-are-zk-rollups)
@@ -413,7 +413,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [Sidechain’ler vs Rollup’lar: Dapp Geliştirmedeki Farklılıkların Detaylı İncelemesi](https://blog.itublockchain.com/sidechainler-vs-rollup-lar-dapp-geli%C5%9Ftirmedeki-farkl%C4%B1l%C4%B1klar%C4%B1n-detayl%C4%B1-i%CC%87ncelemesi-dd154d9edf59)
 * [EVM Validium’lar İçin Çıkış Oyunları: Plasma’nın Dönüşü](https://blog.itublockchain.com/evm-validiumlar-i%CC%87%C3%A7in-%C3%A7%C4%B1k%C4%B1%C5%9F-oyunlar%C4%B1-plasma-n%C4%B1n-d%C3%B6n%C3%BC%C5%9F%C3%BC-705b2bf8b768)
 
-**_Meraklısına → State Channels, Plasma, Sidechains, Validium_**
+**_🗝 Meraklısına → State Channels, Plasma, Sidechains, Validium_**
 
 → State Channels, Plasma, Sidechains, Validium hakkında daha detaylı ve teknik kaynaklar için göz atabilirsiniz👇🏻
 * [The State of Ethereum Scaling](https://modernconsensus.com/cryptocurrencies/ethereum/the-state-of-ethereum-scaling/)
@@ -442,6 +442,6 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [What Is a Sybil Attack? A 101 Guide](https://worldcoin.org/articles/what-is-a-sybil-attack)
 * [Upgradeable Smart Contracts (USCs): Exploring The Concept And Security Risks](https://hacken.io/discover/upgradeable-smart-contracts/)
 
-→ ITU Blockchain Yol Haritası'nın sonuna geldiniz. Umarız bu kılavuz, blockchain öğrenme yolculuğunuzda sizlere ışık tutabilmiştir. Blockchain yolculuğunuzda ITU Blockchain Yol Haritası’na yer verdiğiniz için içtenlikle teşekkür ederiz. Biz ITU Blockchain olarak birçok içerik üretmeye devam ediyoruz. Sosyal medya hesaplarımızı takip ederek  birçok güncel bilgiye ulaşmaya devam edebilir, topluluğumuzun bir parçası olarak öğrenme yolculuğunza devam edebilirsiniz! 🫂
+✓ ITU Blockchain Yol Haritası'nın sonuna geldiniz. Umarız bu kılavuz, blockchain öğrenme yolculuğunuzda sizlere ışık tutabilmiştir. Blockchain yolculuğunuzda ITU Blockchain Yol Haritası’na yer verdiğiniz için içtenlikle teşekkür ederiz. Biz ITU Blockchain olarak birçok içerik üretmeye devam ediyoruz. Sosyal medya hesaplarımızı takip ederek  birçok güncel bilgiye ulaşmaya devam edebilir, topluluğumuzun bir parçası olarak öğrenme yolculuğunza devam edebilirsiniz! 🫂
 
 [Başa dön ⬆](#i̇çerik)
