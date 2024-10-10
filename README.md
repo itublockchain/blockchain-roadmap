@@ -25,13 +25,15 @@
 | [Blockchain Güvenliği ve Zorlukları](#blockchain-güvenliği-ve-zorlukları)|
 
 ## Blokzincirin Temel Teknolojileri Nedir?
-Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
+→ Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
 
 ### Uçtan Uca ve Asimetrik Şifreleme
 * [Public Key Cryptography Simply Explained](https://hackernoon.com/public-key-cryptography-simply-explained-e932e3093046)
 * [Public Key Cryptography — A Comprehensive Guide](https://medium.com/blockwhat/public-key-cryptography-a-comprehensive-guide-1e8489e08104)
 
-__🔎 Meraklısına: Uçtan Uca ve Asimetrik Şifreleme hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻__
+__🔎 Meraklısına__
+
+→ Uçtan Uca ve Asimetrik Şifreleme hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What is an Asymmetric Encryption?](https://www.geeksforgeeks.org/what-is-asymmetric-encryption/)
 * [What is end-to-end encryption (E2EE)?](https://www.ibm.com/topics/end-to-end-encryption)
 * [From Mnemonic Phrase to Private Key: Everything You Need to Know](https://hackernoon.com/from-mnemonic-phrase-to-private-key-everything-you-need-to-know)
