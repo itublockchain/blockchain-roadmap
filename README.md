@@ -45,7 +45,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [Exploring Shor’s Algorithm: A Quantum Computing Approach to Integer Factorization](https://medium.com/@moh.hussain06/exploring-shors-algorithm-a-quantum-computing-approach-to-integer-factorization-7c403d730f18)
 * [Hash Algoritmasını Deneyimlemeniz için Araç](https://emn178.github.io/online-tools/sha256.html)
 
-###🎥_Videolar_
+### 🎥 Videolar
 * [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
 
 **_🔎 Meraklısına → Hash Fonksiyonu ve Shor Algoritması_**
@@ -60,7 +60,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 ## Blokzincir Nedir?
 * [Blockchain terms & concepts](https://blockchainblog.substack.com/p/blockchain-terms-and-concepts)
 
-###🎥_Videolar_
+### 🎥 Videolar
 * [Blockchain nasıl işler? - Basitçe Açıklaması](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 * [What is a Blockchain? (Animated + Examples)](https://www.youtube.com/watch?v=kHybf1aC-jE)
 * [Blockchain Demo](https://andersbrownworth.com/blockchain/)
@@ -154,7 +154,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 ### Ethereum Virtual Machine (EVM)
 * [ETHEREUM VIRTUAL MACHINE (EVM)](https://ethereum.org/en/developers/docs/evm/)
 
-###🎥_Videolar_
+### 🎥 Videolar
 * [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY&ab_channel=Ethereum)
 * [Ethereum Tutorial](https://www.youtube.com/watch?v=EYAwz0Jp1Og&t=3s&ab_channel=Simplilearn)
 
@@ -174,7 +174,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 ## Akıllı Sözleşmeler Nedir?
 * [Akıllı Sözleşmeler Nedir ve Nasıl Çalışırlar?](https://medium.com/certik/blockchain-technology-smart-contracts-49029afca723)
 
-###🎥_Videolar_
+#### 🎥 Videolar
 * [Smart Contracts Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t=191s)
 * [What is Smart Contracts](https://www.youtube.com/watch?v=pyaIppMhuic&t=245s)
 
@@ -219,7 +219,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [GAS AND FEES](https://ethereum.org/en/developers/docs/gas/)
 * [Gas, Gas Limit, Gas Fee, Gwei nedir? - Tobby Kitty](https://twitter.com/TobbyKitty/status/1482026492183863299?s=20&t=MxQElGva7y6L53H6m3UtIw)
 
-###🎥_Videolar_
+### 🎥 Videolar
 * [What Is GAS? Ethereum HIGH Transaction Fees Explained](https://www.youtube.com/watch?v=Yh8cHUB-KoU&t=1s&ab_channel=Finematics)
 
 **_🔎 Meraklısına → Gaz ve Gwei_**
@@ -236,7 +236,7 @@ Hash fonksiyonları, kriptografi alanında kullanılır ve farklı seviyelerde k
 * [All Major Blockchain Consensus Algorithms Explained](https://medium.com/@learnwithwhiteboard_digest/all-major-blockchain-consensus-algorithms-explained-6934b4f5d47a)
 * [Distributed Consensus in Distributed Systems](https://www.geeksforgeeks.org/distributed-consensus-in-distributed-systems/)
 
-###🎥_Videolar_
+#### 🎥 Videolar
 * [All Major Blockchain Consensus Algorithms Explained | Consensus Mechanism in Blockchain](https://www.youtube.com/watch?v=sXP-8pD7PG4&ab_channel=LearnwithWhiteboard)
 * [What is Proof of Work? (Cryptocurrency Explanation)](https://www.youtube.com/watch?v=XLcWy1uV8YM&ab_channel=WhiteboardCrypto)
 * [What is Proof of Stake? How it works (Animated) + Ethereum 2.0 Upgrade!](https://www.youtube.com/watch?v=x83EVUZ_EWo&ab_channel=WhiteboardCrypto)
@@ -339,7 +339,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [NFT’ler hakkında bilmeniz gereken her şey](https://tobbykitty.com/2021/07/08/nftler-hakkinda-bilmeniz-gereken-her-sey/)
 * [NFTs Are Worth Understanding](https://nickwidmer.substack.com/p/nftsareworthunderstanding)
 
-###🎥_Videolar_
+### 🎥 Videolar
 * [NFTLER İLE İLGİLİ BİLMENİZ GEREKEN HER ŞEY I NFT NEDİR](https://www.youtube.com/watch?v=1RgaGu0BJcU&ab_channel=SelimC.)
 * [NFT Mania - Hype Or A New Paradigm? CryptoPunks, BAYC, Generative Art, Loot Explained](https://www.youtube.com/watch?v=WOxYlBTRncY&ab_channel=Finematics)
 
@@ -355,7 +355,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 ## DAO Nedir?
 * [What is a DAO?](https://daocentral.com/blog/what-is-a-dao)
 
-###🎥_Videolar_
+### 🎥 Videolar
 * [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE&ab_channel=WhiteboardCrypto)
 
 **_🔎 Meraklısına → DAO'lar_**
