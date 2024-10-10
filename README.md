@@ -25,7 +25,7 @@
 | [Blockchain Güvenliği ve Zorlukları](#blockchain-güvenliği-ve-zorlukları)|
 
 ## Blokzincirin Temel Teknolojileri Nedir?
-→ Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
+Yol haritamızdaki ilk adım blokzincir teknolojisinin temellerini oluşturan yapıtaşlarını öğrenmek olacak.
 
 ### Uçtan Uca ve Asimetrik Şifreleme
 * [Public Key Cryptography Simply Explained](https://hackernoon.com/public-key-cryptography-simply-explained-e932e3093046)
@@ -58,6 +58,8 @@ __🔎 Meraklısına__
 [Başa dön ⬆](#i̇çerik)
 
 ## Blokzincir Nedir?
+Blokzincir, dağıtık bir ağ üzerinde, merkezi bir otoriteye ihtiyaç duymadan işlemlerin güvenli, şeffaf ve değiştirilemez bir şekilde kaydedildiği bir dijital defterdir. Bu teknoloji, zincir halinde birbirine bağlı veri bloklarından oluşur ve her blok, bir önceki bloğun kriptografik özetiyle doğrulanır.
+
 * [Blockchain terms & concepts](https://blockchainblog.substack.com/p/blockchain-terms-and-concepts)
 
 __🎥 Videolar__
@@ -85,6 +87,8 @@ __🔎 Meraklısına__
 [Başa dön ⬆](#i̇çerik)
 
 ## Bitcoin Nedir?
+Bitcoin, merkezi bir otoriteye bağlı olmadan, eşler arası teknoloji ile çalışan, kriptografi ile güvenliği sağlanan ve kullanıcıların dünya genelinde anında ödeme yapmalarını sağlayan dijital bir para birimidir.
+
 * [Bitcoin Neden Önemlidir? ](https://blog.itublockchain.com/bitcoin-neden-%C3%B6nemlidir-%C3%A7eviri-4538f4ca3e64)
 * [Bitcoin Explained](https://www.lopp.net/bitcoin-information/bitcoin-explained.html)
 
@@ -114,6 +118,7 @@ __🔎 Meraklısına__
 [Başa dön ⬆](#i̇çerik)
 
 ## Ethereum Nedir?
+Ethereum, merkeziyetsiz uygulamalar ve akıllı sözleşmelerin oluşturulmasına olanak tanıyan, açık kaynaklı ve dağıtık bir blokzincirdir.
 * [Ethereum Nedir? Dijital geleceğimizin temeli](https://ethereum.org/tr/what-is-ethereum/)
 * [Ethereum Aslında Nasıl Çalışır?](https://blog.itublockchain.com/ethereum-asl%C4%B1nda-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-%C3%A7eviri-2a1ea423078c)
 
@@ -172,6 +177,7 @@ __🔎 Meraklısına__
 
 
 ## Akıllı Sözleşmeler Nedir?
+Akıllı sözleşmeler, önceden belirlenen şartlar ve koşullar karşılandığında otomatik olarak yürütülen, blokzincirde saklanan dijital sözleşmelerdir.
 * [Akıllı Sözleşmeler Nedir ve Nasıl Çalışırlar?](https://medium.com/certik/blockchain-technology-smart-contracts-49029afca723)
 
 __🎥 Videolar__
