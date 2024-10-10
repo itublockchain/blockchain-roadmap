@@ -32,6 +32,7 @@
 * [Public Key Cryptography — A Comprehensive Guide](https://medium.com/blockwhat/public-key-cryptography-a-comprehensive-guide-1e8489e08104)
 
 __🔎 Meraklısına__
+
 → Uçtan Uca ve Asimetrik Şifreleme hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What is an Asymmetric Encryption?](https://www.geeksforgeeks.org/what-is-asymmetric-encryption/)
 * [What is end-to-end encryption (E2EE)?](https://www.ibm.com/topics/end-to-end-encryption)
@@ -65,6 +66,7 @@ __🎥 Videolar__
 * [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 
 __🔎 Meraklısına__
+
 → Blokzincir hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What Is Blockchain?](https://www.ledger.com/academy/what-is-blockchain)
 * [What is Blockchain Technology? How Does Blockchain Work?](https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-technology)
@@ -95,6 +97,7 @@ __🔎 Meraklısına__
 
 
 __🔎 Meraklısına__
+
 → Bitcoin hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
@@ -115,6 +118,7 @@ __🔎 Meraklısına__
 * [Ethereum Aslında Nasıl Çalışır?](https://blog.itublockchain.com/ethereum-asl%C4%B1nda-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-%C3%A7eviri-2a1ea423078c)
 
 __🔎 Meraklısına__
+
 → Ethereum hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Vitalik'in Bitcointalk'ta Ethereum'u tanıttığı paylaşım](https://bitcointalk.org/index.php?topic=428589.0)
 * [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -128,6 +132,7 @@ __🔎 Meraklısına__
 * [What is the Blockchain Trilemma?](https://www.ledger.com/academy/what-is-the-blockchain-trilemma)
 
 __🔎Meraklısına__
+
 → Blockchain Trilemması hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What Is the Blockchain Trilemma?](https://101blockchain.com/blockchain-trilemma-explained/)
 * [Blockchain Trilemma: What Is It?](https://trakx.io/resources/insights/blockchain-trilemma/)
@@ -138,6 +143,7 @@ __🔎Meraklısına__
 * [Merkle Root](https://learnmeabitcoin.com/technical/block/merkle-root/)
 
 __🔎 Meraklısına__
+
 → Merkle Trees hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Concept of Merkle Tree in Ethereum](https://etherworld.co/2017/02/15/concept-of-merkle-tree-in-ethereum/)
 * [Merkle proofs Explained.](https://medium.com/crypto-0-nite/merkle-proofs-explained-6dd429623dc5)
@@ -153,6 +159,7 @@ __🎥 Videolar__
 * [Ethereum Tutorial](https://www.youtube.com/watch?v=EYAwz0Jp1Og&t=3s&ab_channel=Simplilearn)
 
 __🔎 Meraklısına__
+
 → Ethereum Sanal Makinesi (EVM) hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [The Ethereum Virtual Machine](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)
 * [The EVM Handbook](https://noxx3xxon.notion.site/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
@@ -172,6 +179,7 @@ __🎥 Videolar__
 * [What is Smart Contracts](https://www.youtube.com/watch?v=pyaIppMhuic&t=245s)
 
 __🔎 Meraklısına__
+
 → Akıllı Sözleşmeler hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What is a Smart Contract?](https://docs.near.org/build/smart-contracts/what-is)
 * [What are smart contracts, and how do they work?](https://cointelegraph.com/learn/what-are-smart-contracts-a-beginners-guide-to-automated-agreements)
@@ -183,6 +191,7 @@ __🔎 Meraklısına__
 * [INTRODUCTION TO DAPPS](https://ethereum.org/en/developers/docs/dapps/)
 
 __🔎 Meraklısına__
+
 → Merkeziyetsiz Uygulamalar hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What are DApps? Everything there is to know about decentralized applications](https://cointelegraph.com/learn/what-are-dapps-everything-there-is-to-know-about-decentralized-applications)
 * [What Are The Different Types of dApps?](https://coredevsltd.com/articles/types-of-dapps/)
@@ -195,6 +204,7 @@ __🔎 Meraklısına__
 * [The Business Model of Crypto-wallets](https://hackernoon.com/the-business-model-of-crypto-wallets-89aeed8322dc)
 
 __🔎 Meraklısına__
+
 → Cüzdanlar hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What Is a Crypto Wallet?](https://www.ledger.com/academy/basic-basics/2-how-to-own-crypto/what-is-a-crypto-wallet)
 * [A Beginners Guide To Crypto Wallets](https://www.developernation.net/blog/a-beginners-guide-to-crypto-wallets/)
@@ -211,6 +221,7 @@ __🎥 Videolar__
 * [What Is GAS? Ethereum HIGH Transaction Fees Explained](https://www.youtube.com/watch?v=Yh8cHUB-KoU&t=1s&ab_channel=Finematics)
 
 __🔎 Meraklısına__
+
 → Gaz ve Gwei hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What are Ethereum gas fees? ETH fees explained](https://www.moonpay.com/tr/learn/defi/what-are-ethereum-gas-fees)
 * [What is Gas and How is it Used?](https://www.web3.university/tracks/create-a-smart-contract/what-is-gas-and-how-is-it-used)
@@ -229,6 +240,7 @@ __🎥 Videolar__
 * [What is Proof of Stake? How it works (Animated) + Ethereum 2.0 Upgrade!](https://www.youtube.com/watch?v=x83EVUZ_EWo&ab_channel=WhiteboardCrypto)
 
 __🔎 Meraklısına__
+
 → Konsensus hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Why Proof of Stake](https://vitalik.eth.limo/general/2020/11/06/pos2020.html)
 * [Hisse ispatı (PoS)](https://ethereum.org/tr/developers/docs/consensus-mechanisms/pos/)
@@ -244,6 +256,7 @@ __🔎 Meraklısına__
 * [Madenciler, bu büyük makineler, ne yapıyor ne için çalışıyor?](https://twitter.com/TobbyKitty/status/1406914377790394368?s=20&t=ZIGi2Z65ePR5vAShXF6dcg)
 
 __🔎 Meraklısına__
+
 → Madencilik hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Madencilik Havuzları](https://twitter.com/TobbyKitty/status/1394002635460599813?s=20&t=Hw3WenHMK9Ewwt5UCR-v9Q)
 * [What is Solo Mining?](https://www.blockchain-council.org/cryptocurrency/solo-mining-works/)
@@ -255,6 +268,7 @@ __🔎 Meraklısına__
 * [The Ethereum Merge: what to expect?](https://blog.1inch.io/the-ethereum-merge-what-to-expect/)
 
 __🔎 Meraklısına__ 
+
 → Merge hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What Is the Ethereum Merge?](https://www.coindesk.com/learn/what-is-the-merge-and-why-has-it-taken-so-long/)
 * [Summary of The Ethereum Merge](https://www.kraken.com//learn/ethereum-merge-explained)
@@ -268,6 +282,7 @@ __🔎 Meraklısına__
 * [Slashing](https://eth2book.info/altair/part2/incentives/slashing/)
 
 __🔎 Meraklısına__
+
 → Validatörler ve Staking hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What Is A Blockchain Validator?](https://cryptomus.com/blog/what-is-a-blockchain-validator?srsltid=AfmBOorQdQ1qh4148GNFYmmI7v3VIE23wbbPF7G24-Gg1ZZIucOcDGeS)
 * [What Are Blockchain Validators, Their Types and How Are They Used?](https://www.smartsight.in/technology/what-are-blockchain-validators-their-types-and-how-are-they-used/#:~:text=Validators%20must%20lock%20up%20a,the%20amount%20of%20staked%20assets)
@@ -284,6 +299,7 @@ __🔎 Meraklısına__
 * [What is DeFi? The Ultimate DeFi 101 Guide to Ethereum, Layer 2s, Yield Farming, and More](https://thedefiant.io/education/level-up/what-is-defi)
 
 __🔎 Meraklısına__
+
 → Merkeziyetsiz Finans (DeFi) hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What is DeFi? A beginner's guide to decentralized finance](https://cointelegraph.com/learn/defi-a-comprehensive-guide-to-decentralized-finance)
 * [What Are Stablecoins?](https://chain.link/education-hub/stablecoins)
@@ -308,6 +324,7 @@ for Fun and Profit](https://arxiv.org/pdf/2003.03810)
 * [Tokenomics 103](https://every.to/almanack/tokenomics-103-utility)
 
 __🔎 Meraklısına__
+
 → Tokenomics hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Tokenomics 104](https://every.to/almanack/tokenomics-104-how-to-launch-a-token-tactics-questions-wen-etc)
 * [Tokenomics: Supply & Demand of Crypto](https://hacken.io/discover/tokenomics/)
@@ -325,6 +342,7 @@ __🔎 Meraklısına__
 * [NFT Mania - Hype Or A New Paradigm? CryptoPunks, BAYC, Generative Art, Loot Explained](https://www.youtube.com/watch?v=WOxYlBTRncY&ab_channel=Finematics)
 
 __🔎 Meraklısına__
+
 → NFT'ler hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [NFTs Explained: A Must-Read Guide to Everything Non-Fungible](https://nftnow.com/guides/what-is-nft-meaning/)
 * [What is an NFT? (Non-Fungible Token)](https://www.kraken.com//learn/what-are-non-fungible-tokens-nft)
@@ -339,6 +357,7 @@ __🎥 Videolar__
 * [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE&ab_channel=WhiteboardCrypto)
 
 __🔎 Meraklısına__
+
 → DAO'lar hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/)
 * [How to Create a DAO in 10 Minutes](https://101blockchains.com/create-a-dao-in-10-minutes/)
@@ -367,6 +386,7 @@ __🔎 Meraklısına__
 
 
 __🔎 Meraklısına__
+
 → Rollup'lar hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [What are ZK-Rollups? How Zero-Knowledge Rollups work](https://www.moonpay.com/tr/learn/blockchain/what-are-zk-rollups)
 * [ZK-Rollups: The Next Step In Blockchain Scalability](https://hacken.io/discover/zk-rollups-explained/)
@@ -393,6 +413,7 @@ __🔎 Meraklısına__
 * [EVM Validium’lar İçin Çıkış Oyunları: Plasma’nın Dönüşü](https://blog.itublockchain.com/evm-validiumlar-i%CC%87%C3%A7in-%C3%A7%C4%B1k%C4%B1%C5%9F-oyunlar%C4%B1-plasma-n%C4%B1n-d%C3%B6n%C3%BC%C5%9F%C3%BC-705b2bf8b768)
 
 __🔎 Meraklısına__
+
 → State Channels, Plasma, Sidechains, Validium hakkında daha kapsamlı ve teknik bilgiler edinmek için aşağıdaki kaynaklara göz atabilirsiniz👇🏻
 * [The State of Ethereum Scaling](https://modernconsensus.com/cryptocurrencies/ethereum/the-state-of-ethereum-scaling/)
 * [What is a Plasma Blockchain?](https://blog.thirdweb.com/what-is-plasma-blockchain/)
