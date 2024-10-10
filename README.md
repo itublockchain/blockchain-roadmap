@@ -442,6 +442,7 @@ __🔎 Meraklısına__
 * [DDoS attacks: mechanism, damage, and prevention](https://hacken.io/discover/ddos-attacks-mechanism-damage-and-prevention/)
 * [Volume Manipulation by Immediately Filled Orders](https://hacken.io/discover/volume-manipulation-by-immediately-filled-orders/)
 * [What Is a Sybil Attack? A 101 Guide](https://worldcoin.org/articles/what-is-a-sybil-attack)
+* [Upgradeable Smart Contracts (USCs): Exploring The Concept And Security Risks](https://hacken.io/discover/upgradeable-smart-contracts/)
 
 
 ✓ ITU Blockchain Yol Haritası'nın sonuna geldiniz. Umarız bu kılavuz, blockchain öğrenme yolculuğunuzda sizlere ışık tutabilmiştir. Biz ITU Blockchain olarak çalışmaya, öğrenmeye ve üretmeye devam ediyoruz. Dilerseniz sosyal medya hesaplarımızı takip ederek içeriklerimize ulaşabilir, topluluğumuzun bir parçası olarak öğrenme yolculuğunza devam edebilirsiniz. Blockchain yolculuğunuzda ITU Blockchain Yol Haritası’na yer verdiğiniz için teşekkür ederiz! 🫂
