@@ -1,7 +1,7 @@
 # Blokzincir Yol Haritası
 * Bu yol haritasının amacı blokzincir teknolojisi ve günümüzdeki uygulamaları hakkında bilgilenmek isteyen herkese, başlangıç seviyesinden ileri düzeye kadar rehberlik edecek kaynaklar sunmaktır. ITU Blockchain üyeleri tarafından derlenen bu kaynaklar, ITU Blockchain çeviri ekibi tarafından düzenli olarak Türkçeye çevrilmektedir. Yol haritasındaki birçok kaynak İngilizce olarak yer alsa da ilgili konu başlıkları altındaki kaynakların Türkçeye çevrilmiş hali düzenli olarak yol haritasına eklenecektir. Umarız bu yol haritası Blockchain öğrenme yolculuğunuzda kapsamlı bir rehber olur! Aşağıdaki tablodan ilgilendiğiniz başlıklara tıklayarak kaynaklara ulaşabilirsiniz 👇🏻
 
-* This roadmap was prepared by members of ITU Blockchain, Turkey’s first and biggest university blockchain club. Although most of the resources are originally in English, our translation team has translated them into Turkish. If you’d like to see the sources in their original languages, check out the first couple of lines in the Medium articles. We hope this blockchain roadmap will be a comprehensive guide in your blockchain learning journey! 
+* This roadmap was prepared by members of ITU Blockchain, Turkey’s first and biggest university blockchain club. Although most of the resources are originally in English, our translation team has translated them into Turkish. If you’d like to see the sources in their original languages, check out the first couple of lines in the Medium articles. We hope this blockchain roadmap will be a comprehensive guide in your blockchain learning journey!
 
 ## İçerik
 | Konu Başlıkları  |
