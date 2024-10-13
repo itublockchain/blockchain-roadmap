@@ -202,7 +202,7 @@ __🔎 Meraklısına__
 [Başa dön ⬆](#i̇çerik)
 
 ## Cüzdanlar Nedir?
-* [Beginner’s Guide to Crypto Wallets](https://medium.com/@bitcofun/beginners-guide-to-crypto-wallets-explaining-the-basics-of-hot-wallets-cold-storage-seed-cb6c421e8949 )
+* [Kripto Cüzdanlar İçin Başlangıç Rehberi](https://blog.itublockchain.com/kripto-cüzdanlar-i̇çin-başlangıç-rehberi-75f63b7708cb)
 * [Kripto Para Cüzdan Rehberi](https://tobbykitty.com/2021/12/25/kripto-para-cuzdan-rehberi/)
 * [The Business Model of Crypto-wallets](https://hackernoon.com/the-business-model-of-crypto-wallets-89aeed8322dc)
 
